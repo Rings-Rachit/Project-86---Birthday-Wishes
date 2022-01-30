@@ -1,0 +1,28 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width:10px;
+   background-color: white;
+   border-style:ridge;
+   border-color:darkviolet;
+}
+#wishcard{
+    width:200px;
+    height:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+#title{
+    font-size:50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:darkolivegreen;
+    color:greenyellow;
+    width:40%;
+    border-radius: 50px;
+}
+
